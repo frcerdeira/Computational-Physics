@@ -1,2 +1,2 @@
 # Computational-Physics
-Small physics problems from a uni course (C++)
+Small physics problems from a uni course
